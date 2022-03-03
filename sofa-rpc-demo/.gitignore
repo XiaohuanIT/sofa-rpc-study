@@ -1,0 +1,27 @@
+.idea
+gen-py
+gen-java
+*.pyc
+
+#log file
+log/
+*.log
+*.log.*
+
+#eclipse project file
+.project
+.pydevproject
+.settings/
+.DS_Store
+
+*.swp
+
+.cache
+
+
+*.class
+
+out
+build
+.gradle
+classes/
